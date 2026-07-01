@@ -1,0 +1,6 @@
+com\example\patients\controller\PatientController.class
+com\example\patients\service\PatientService.class
+com\example\patients\PatientsApplication.class
+com\example\patients\entity\Patient.class
+com\example\patients\enumm\BillStatus.class
+com\example\patients\repository\PatientRepository.class
